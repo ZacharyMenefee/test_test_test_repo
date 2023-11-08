@@ -18,8 +18,6 @@ To Do:
 
 ---
 
-Add Example Test
-
 1. Add the `viewport` meta tag with `content="width=device-width, initial-scale=1` options to the `<head>`.
 
 2. Center horizontally and vertically the div with the class `hero-content` inside the `hero-container` parent div. Use flexbox to complete this challenge. 
