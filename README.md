@@ -7,7 +7,7 @@ Welcome to your first knowledge check for Code Louisville's Web Development Trac
 Please complete the following list of items, but also feel free to customize the images and text to your liking. 
 
 ---
-
+Text here (update later)
 To Do:
 
 - [ ] 1. Add `Viewport` metatag
